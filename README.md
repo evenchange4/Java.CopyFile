@@ -1,7 +1,7 @@
 Java CopyFile
 =============
 
-This is a Java Copy File example that I try to copy `input.xml` in `utf8` format, and ouput the smae content to `output.xml` file.
+This is a Java Copy File example that I try to copy `input.xml` in `utf8` format, and ouput the same content to `output.xml` file.
 
 ## How to run
 
@@ -9,6 +9,8 @@ This is a Java Copy File example that I try to copy `input.xml` in `utf8` format
 $ javac CopyFile.java
 $ java CopyFile 
 $ head output.xml
+
+
 # output as below	
 # =>
 <?xml version="1.0" encoding="UTF-8"?>
